@@ -29,7 +29,7 @@ const Box = styled.div`
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #e3e3e3;
+  background-color: #eee;
 `;
 
 const Card = styled.div`
